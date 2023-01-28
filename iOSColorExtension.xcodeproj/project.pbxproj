@@ -11,6 +11,7 @@
 		98794D9D2982D20D005D2B9D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98794D9C2982D20D005D2B9D /* ContentView.swift */; };
 		98794D9F2982D20E005D2B9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98794D9E2982D20E005D2B9D /* Assets.xcassets */; };
 		98794DA32982D20E005D2B9D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98794DA22982D20E005D2B9D /* Preview Assets.xcassets */; };
+		98794DAA2982D21E005D2B9D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98794DA92982D21E005D2B9D /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		98794D9E2982D20E005D2B9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98794DA02982D20E005D2B9D /* iOSColorExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = iOSColorExtension.entitlements; sourceTree = "<group>"; };
 		98794DA22982D20E005D2B9D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98794DA92982D21E005D2B9D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				98794D9E2982D20E005D2B9D /* Assets.xcassets */,
 				98794DA02982D20E005D2B9D /* iOSColorExtension.entitlements */,
 				98794DA12982D20E005D2B9D /* Preview Content */,
+				98794DA92982D21E005D2B9D /* Extensions.swift */,
 			);
 			path = iOSColorExtension;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98794D9D2982D20D005D2B9D /* ContentView.swift in Sources */,
+				98794DAA2982D21E005D2B9D /* Extensions.swift in Sources */,
 				98794D9B2982D20D005D2B9D /* iOSColorExtensionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
